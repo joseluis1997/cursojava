@@ -2,7 +2,7 @@ package ciclos;
 
 import java.util.Scanner;
 
-public class clase_1 {
+public class clase_01 {
 	/*clase numero 1
 	 * ciclo While-> Mientras
 	 * While(condicion){

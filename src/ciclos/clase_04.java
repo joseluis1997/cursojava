@@ -2,7 +2,7 @@ package ciclos;
 
 import java.util.Scanner;
 
-public class clase_4 {
+public class clase_04 {
 	public static void main(String...args) {
 		/*
 		 *  Bloque :: ciclos o bucles /ejercicio 1

@@ -2,7 +2,7 @@ package ciclos;
 
 import javax.swing.JOptionPane;
 
-public class clase_7 {
+public class clase_07 {
 	public static void main(String...args) {
 		
 		/*

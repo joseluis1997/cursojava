@@ -2,7 +2,7 @@ package ciclos;
 
 import java.util.Scanner;
 
-public class clase_3 {
+public class clase_03 {
 	/*
 	 * Clase_#3 -> ciclo for
 	 * For (inicializacion ; condicion ; incremento o decremento)

@@ -2,7 +2,7 @@ package ciclos;
 
 import javax.swing.JOptionPane;
 
-public class clase_8 {
+public class clase_08 {
 	public static void main(String...args) {
 		/*
 		 * Leer numero hasta que se introduzca un cero, para cada uno indicar 

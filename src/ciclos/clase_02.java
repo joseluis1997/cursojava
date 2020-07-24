@@ -2,7 +2,7 @@ package ciclos;
 
 import java.util.Scanner;
 
-public class clase_2 {
+public class clase_02 {
 
 		public static void main(String...args) {
 			/*

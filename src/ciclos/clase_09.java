@@ -2,7 +2,7 @@ package ciclos;
 
 import javax.swing.JOptionPane;
 
-public class clase_9 {
+public class clase_09 {
 	public static void main(String...args) {
 		/*
 		 * Pedir numero hasta que se teclee un numero negativo,
